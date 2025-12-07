@@ -1,0 +1,13 @@
+<svg width="260" height="68" viewBox="0 0 260 68" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="10" y1="8" x2="240" y2="60" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0EA5E9"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="256" height="64" rx="14" fill="#0B1224" stroke="url(#grad)" stroke-width="3"/>
+  <circle cx="42" cy="34" r="22" fill="url(#grad)" opacity="0.18"/>
+  <path d="M26 44 L36 22 L47 37 L55 26 L64 44" stroke="url(#grad)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <text x="92" y="30" fill="#E2E8F0" font-family="'Space Grotesk', 'Segoe UI', sans-serif" font-size="18" font-weight="700">Lumen</text>
+  <text x="92" y="50" fill="#9FB2D4" font-family="'Space Grotesk', 'Segoe UI', sans-serif" font-size="13" font-weight="600">Eletronicos &amp; Tech</text>
+</svg>
