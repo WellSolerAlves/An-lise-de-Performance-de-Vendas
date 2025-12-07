@@ -1,5 +1,4 @@
-﻿data/*.csv
-.env
+﻿# data/*.csv   ← comentado para permitir CSVs no GitHub.env
 .venv/
 __pycache__/
 *.pyc
